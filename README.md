@@ -1,6 +1,8 @@
 # Install modules
 
+```bash
 npm install
+```
 
 # UserManagement
 
